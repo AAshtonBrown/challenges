@@ -2,10 +2,9 @@
     
     for (int i=1; i<31; i++) {
       
-      System.out.println(i);
+      System.out.println(i); 
       
     }
-  }
   
   
   10. For Loop 10 Times Table
@@ -17,6 +16,4 @@
          System.out.println(i * j);
          
         }
-      }
-    }
-  }
+     }
